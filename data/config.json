@@ -1,0 +1,14 @@
+{
+  "labelFields": [
+    "keywords"
+  ],
+  "filterFields": [
+    "year",
+    "author",
+    "keywords"
+  ],
+  "sortField": "year",
+  "titleField": "title",
+  "abstractField": "abstract",
+  "citationField": "doi"
+}
